@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f0138702-7e6a-40a5-9648-2b3e3d4c8c1e",
+    "data": [
+      {
+        "text": "Is there any stores in city?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2ccaa85-86d2-4dbe-ae64-7203bed9102e",
+    "data": [
+      {
+        "text": "Where the offline stores located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "021f4573-ea22-4e9a-8d80-dafa1710a584",
+    "data": [
+      {
+        "text": "Where can I buy One8 shoes physically?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

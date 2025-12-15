@@ -1,0 +1,37 @@
+[
+  {
+    "value": "Tracking",
+    "synonyms": [
+      "Tracking",
+      "where is my order, locate, ship, tracking number, status"
+    ]
+  },
+  {
+    "value": "Cancel",
+    "synonyms": [
+      "Cancel",
+      "cancel my order, stop delivery, revoke"
+    ]
+  },
+  {
+    "value": "Return",
+    "synonyms": [
+      "Return",
+      "refund, exchange, wrong item, size issue, send back"
+    ]
+  },
+  {
+    "value": "MissingItem",
+    "synonyms": [
+      "MissingItem",
+      "partial delivery, missing product, one item not in box"
+    ]
+  },
+  {
+    "value": "Damaged",
+    "synonyms": [
+      "Damaged",
+      "broken, defective, torn, bad quality, damaged product"
+    ]
+  }
+]

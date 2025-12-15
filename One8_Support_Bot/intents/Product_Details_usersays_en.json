@@ -1,0 +1,232 @@
+[
+  {
+    "id": "31a9b141-c2ff-4e3c-afa5-7d635c2c3c7d",
+    "data": [
+      {
+        "text": "Any questions regarding the ",
+        "userDefined": false
+      },
+      {
+        "text": "products",
+        "meta": "@sys.any",
+        "alias": "product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c89e270f-4c9b-4a33-b34d-9c5d56379c9b",
+    "data": [
+      {
+        "text": "Where can I find new ",
+        "userDefined": false
+      },
+      {
+        "text": "tops",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be82804f-df67-472c-987c-2e20fdd9dc96",
+    "data": [
+      {
+        "text": "How durable are the running ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2bb453f-eae7-44ba-b37c-8732a684f362",
+    "data": [
+      {
+        "text": "Show me men\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "footwear",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f05c721-1a1f-4e7b-9068-e9550870d820",
+    "data": [
+      {
+        "text": "Where can I see all the ",
+        "userDefined": false
+      },
+      {
+        "text": "Trackpants",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "476aaa95-ecc9-4820-9fce-af772a0d479f",
+    "data": [
+      {
+        "text": "Are the ",
+        "userDefined": false
+      },
+      {
+        "text": "Accessories",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": false
+      },
+      {
+        "text": " in stock?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "152a91ee-a0ae-43fd-8aae-b9313abc3a0a",
+    "data": [
+      {
+        "text": "What is the price of the Virat Kohli edition ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c2cb283-55d7-4bb3-a474-7c63c44701d7",
+    "data": [
+      {
+        "text": "What materials are used in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Jackets",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "140cc6c0-d316-4613-89a4-bdd53bca390a",
+    "data": [
+      {
+        "text": "Do you have any sizing charts for ",
+        "userDefined": false
+      },
+      {
+        "text": "T-Shirts",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42c49858-35ea-4eb0-b40a-6ac9bf796aa7",
+    "data": [
+      {
+        "text": "Tell me about the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "Sneaker",
+        "meta": "@One8_Product_Category",
+        "alias": "one8_product",
+        "userDefined": false
+      },
+      {
+        "text": " collection.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

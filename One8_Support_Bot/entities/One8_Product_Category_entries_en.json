@@ -1,0 +1,41 @@
+[
+  {
+    "value": "Sneakers",
+    "synonyms": [
+      "Sneakers",
+      "shoes, footwear, kicks, running shoes, training shoe",
+      "running shoes",
+      "shoes"
+    ]
+  },
+  {
+    "value": "T-Shirt",
+    "synonyms": [
+      "T-Shirt",
+      "tee, top, t-shirt, shirt, apparel, topwear",
+      "tshirts"
+    ]
+  },
+  {
+    "value": "Trackpant",
+    "synonyms": [
+      "Trackpant",
+      "bottomwear, joggers, pants, pyjamas, lower",
+      "trankpants"
+    ]
+  },
+  {
+    "value": "Jacket",
+    "synonyms": [
+      "Jacket",
+      "sweatshirt, hoodie, track jacket, outerwear,jackets"
+    ]
+  },
+  {
+    "value": "Accessory",
+    "synonyms": [
+      "Accessory",
+      "cap, hat, bag, socks, wristband, accessories"
+    ]
+  }
+]

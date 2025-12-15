@@ -1,0 +1,9 @@
+{
+  "id": "8c38111a-1d6d-4ff5-a59b-4870d0896f10",
+  "name": "One8_Product_Category",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

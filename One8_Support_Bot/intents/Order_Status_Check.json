@@ -1,0 +1,55 @@
+{
+  "id": "c4690774-82e4-4f1a-b324-646c07a6f99a",
+  "name": "Order_Status_Check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "368e770b-039b-40df-aa57-b12cc07e2f3f",
+          "name": "issue_type",
+          "required": true,
+          "dataType": "@One8_Order_Issue",
+          "value": "$issue_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To check your order, please provide the 6-digit order number from your confirmation email."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! For an $issue_type inquiry, please click the link below to our dedicated portal and enter your order number. One8 Order Portal. If it\u0027s about a $issue_type, please check our Returns Policy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

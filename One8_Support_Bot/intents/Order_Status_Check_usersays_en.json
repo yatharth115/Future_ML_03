@@ -1,0 +1,222 @@
+[
+  {
+    "id": "5f73dcc0-fca2-4464-9c26-03b25834f009",
+    "data": [
+      {
+        "text": "How do I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "refund",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc88b606-8ee8-492c-b149-453893f05e8d",
+    "data": [
+      {
+        "text": "Where is my ",
+        "userDefined": false
+      },
+      {
+        "text": "tracking",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " number?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e86b9b83-4c2c-4d50-90b3-bb6fa9bafecd",
+    "data": [
+      {
+        "text": "The package was ",
+        "userDefined": false
+      },
+      {
+        "text": "damaged",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": true
+      },
+      {
+        "text": " upon arrival.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f10e39-8287-4fa7-bd15-f9f2a006e717",
+    "data": [
+      {
+        "text": "I have a problem with my ",
+        "userDefined": false
+      },
+      {
+        "text": "shipment",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14d35e1d-0e54-4777-ac84-3ec1586be99e",
+    "data": [
+      {
+        "text": "My order hasn\u0027t arrived.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dd33417-5594-4450-b466-b8d782fc59c8",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "return",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " a pair of shoes.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b82b701-5dc4-4a38-a068-924dc315562d",
+    "data": [
+      {
+        "text": "Can you ",
+        "userDefined": false
+      },
+      {
+        "text": "cancel",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " order number O18-5555?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1fb26e4-8895-49b8-95c4-72190816a614",
+    "data": [
+      {
+        "text": "Help me ",
+        "userDefined": false
+      },
+      {
+        "text": "locate",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " my recent purchase.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7a42248-82ef-46ab-8d5a-ca753d54c8ac",
+    "data": [
+      {
+        "text": "What is the ",
+        "userDefined": false
+      },
+      {
+        "text": "status",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee974e3d-2b7e-427d-abbf-a36473689d1d",
+    "data": [
+      {
+        "text": "I need to ",
+        "userDefined": false
+      },
+      {
+        "text": "track",
+        "meta": "@One8_Order_Issue",
+        "alias": "issue_type",
+        "userDefined": false
+      },
+      {
+        "text": " my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

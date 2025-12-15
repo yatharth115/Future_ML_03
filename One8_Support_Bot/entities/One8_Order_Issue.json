@@ -1,0 +1,9 @@
+{
+  "id": "ffdad3d4-f27c-40b3-a2f3-8ae3a6e03b4e",
+  "name": "One8_Order_Issue",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

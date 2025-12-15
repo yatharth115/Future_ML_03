@@ -1,0 +1,41 @@
+{
+  "id": "0f1a294f-3e01-4f61-bb04-f3e1f4b99644",
+  "name": "One8_Welcome_Greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! I\u0027m the One8 Customer Support Assistant. How can I help you today?",
+            "Hi there! Welcome to One8 by Virat Kohli support. What are you looking to do?",
+            "Hey! I\u0027m here to answer your questions about One8 products and orders 24/7. Ask away!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

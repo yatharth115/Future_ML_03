@@ -1,0 +1,75 @@
+{
+  "id": "b5204ea5-6b27-45c0-916b-5a31167a09f7",
+  "name": "One8_Order_Id_Status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "579a997a-182f-447f-9b5e-1ea3b9ace68a",
+          "name": "order_identifier",
+          "required": true,
+          "dataType": "@Order_Identifier",
+          "value": "$order_identifier",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Of course, I can help! Could you please tell me your One8 Order ID? It usually starts with O18-."
+            },
+            {
+              "lang": "en",
+              "value": "To check your status, I\u0027ll need your full Order Number, please."
+            },
+            {
+              "lang": "en",
+              "value": "What is the tracking number for your purchase?"
+            },
+            {
+              "lang": "en",
+              "value": "Please provide the order ID so I can look it up."
+            },
+            {
+              "lang": "en",
+              "value": "I need your order reference. Please type it here!"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you! I found the Order ID $order_identifier. I am now checking the live status...",
+            "Processing request for $order_identifier. It shows your package is currently \u0027Out for Delivery\u0027 and expected today by 7 PM.",
+            "Got it! $order_identifieris the number. Please click this link for the real-time tracking page",
+            "Your order is on its way! I see order $order_identifier is at the city hub.",
+            "The system indicates your order $order_identifier has been successfully delivered. Please confirm you received it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

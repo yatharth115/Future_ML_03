@@ -1,0 +1,66 @@
+{
+  "id": "02cd9a96-f4fd-46a0-8097-7c4cd8c6ac86",
+  "name": "Product_Details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c71cd739-7227-47de-9189-199f9876b04a",
+          "name": "one8_product",
+          "required": false,
+          "dataType": "@One8_Product_Category",
+          "value": "$one8_product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "82bc0d5a-8882-4e75-a721-caf6893ff5d4",
+          "name": "product",
+          "required": false,
+          "dataType": "@sys.any",
+          "value": "$product",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We\u0027d love to show you! You can view the full range of $product and detailed sizing/material info on our website: Shop All One8 Gear. Is there a specific $one8_product you are looking for?",
+            "We\u0027re excited you\u0027re looking at our gear! If you are asking about $product, you can view the full range, detailed images, and specific materials on our official shop page.",
+            "The fit is key! For all $one8_product items, you can find a comprehensive size guide available on each individual product page, including measurements in centimeters and inches. This will help ensure the perfect fit for your One8 apparel or footwear."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

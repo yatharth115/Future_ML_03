@@ -1,0 +1,37 @@
+{
+  "id": "1f5132ba-ba93-4854-852e-af350a4f40c9",
+  "name": "One8_Fallback_Catchall",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My apologies, that\u0027s outside my current knowledge. Try asking about \"order status,\" \"returns,\" or \"size guides.\"",
+            "Oops! I didn\u0027t get that. For immediate human help, you can email us at support@one8.in",
+            "Sorry, I\u0027m still learning and don\u0027t understand that. Could you please rephrase your question about One8 products or orders?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

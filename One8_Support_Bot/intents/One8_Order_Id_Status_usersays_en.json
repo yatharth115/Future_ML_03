@@ -1,0 +1,172 @@
+[
+  {
+    "id": "e239f24b-f8ca-4ece-9046-9c734c54dd8f",
+    "data": [
+      {
+        "text": "Can you tell me the expected delivery date for ",
+        "userDefined": false
+      },
+      {
+        "text": "O18-5678",
+        "meta": "@Order_Identifier",
+        "alias": "order_identifier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "483ed575-250d-4bef-beaa-b85131ed030e",
+    "data": [
+      {
+        "text": "What\u0027s happening with my recent purchase?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bb06345-df8c-46cf-bd24-b338fe7c3fdb",
+    "data": [
+      {
+        "text": "Check order tracking, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4fbc35f-f7c9-42b0-99cf-d8571839e508",
+    "data": [
+      {
+        "text": "I haven\u0027t received my One8 gear yet.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "557a2827-eb37-4f86-ac59-889f2d5b48fa",
+    "data": [
+      {
+        "text": "My shipment is delayed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e33838e-0aae-49d8-82d9-175386d98b23",
+    "data": [
+      {
+        "text": "I want to know about delivery of my sneakers.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "946a38c0-d938-4ff3-a4aa-d78aa0537171",
+    "data": [
+      {
+        "text": "What\u0027s the status of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b499bb1a-88e0-4fb4-bf74-aab4ca96178f",
+    "data": [
+      {
+        "text": "I need the status for order ",
+        "userDefined": false
+      },
+      {
+        "text": "O18-7777",
+        "meta": "@Order_Identifier",
+        "alias": "order_identifier",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a47b2130-8a4b-408d-be0a-67af22e26442",
+    "data": [
+      {
+        "text": "Can you track my package? The number is ",
+        "userDefined": false
+      },
+      {
+        "text": "O18-XXXX",
+        "meta": "@Order_Identifier",
+        "alias": "order_identifier",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2c86a87-3ed4-4f71-aa8e-ae7348cea137",
+    "data": [
+      {
+        "text": "Where is my order ",
+        "userDefined": false
+      },
+      {
+        "text": "O18-1001",
+        "meta": "@Order_Identifier",
+        "alias": "order_identifier",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
