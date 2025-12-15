@@ -22,11 +22,11 @@ A virtual assistant developed for the One8 by Virat Kohli sporting brand to hand
 
 ## 🚀 How to Import and Test the Agent
 
-1.  **Download:** Download the contents of the `/dialogflow_agent` folder.
+1.  **Download:** Download the contents of the `/One8_Support_Bot` folder.
 2.  **Create Agent:** In the Dialogflow ES console, create a new agent (e.g., "One8-Test").
-3.  **Import:** Go to **Settings⚙️ > Export and Import > Restore from ZIP** and upload the ZIP file created from the `/dialogflow_agent` folder.
+3.  **Import:** Go to **Settings⚙️ > Export and Import > Restore from ZIP** and upload the ZIP file created from the `/One8_Support_Bot` folder.
 4.  **Test:** Use the **Try it now** console on the right to test phrases like:
-    * `Where is my order ONE8-4567?`
+    * `Where is my order O18-4567?`
     * `I want to return a jacket.`
     * `I need a human agent.`
 
